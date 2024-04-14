@@ -65,9 +65,14 @@ To use this bot, follow these steps:
 
 - The bot's prefix is set to `.` by default. You can change it in the `main.py` file.
 
+> [!IMPORTANT]
+> The time is still in a 24 hour format, I marked it in the code so you can change it if you want
+
 ## Pictures
 
 
 ![image](https://github.com/TrapstarJannik/images/blob/main/Screenshot_57.png)
 ![image](https://github.com/TrapstarJannik/images/blob/main/Screenshot_58.png)
+
+
 
