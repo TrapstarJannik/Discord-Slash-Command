@@ -51,7 +51,9 @@ To use this bot, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/TrapstarJannik/Discord-Slash-Command.git
-   cd your directory
+    ```
+   ```sh
+   cd "your directory"
    ```
 
 4. Run the bot:
