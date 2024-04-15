@@ -53,7 +53,7 @@ To use this bot, follow these steps:
    git clone https://github.com/TrapstarJannik/Discord-Slash-Command.git
     ```
    ```sh
-   cd "Discord-Slash-Command"
+   cd Discord-Slash-Command
    ```
 
 4. Run the bot:
@@ -62,7 +62,7 @@ To use this bot, follow these steps:
    ```
    
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> You need to put your token in the `token.txt` or you will get an error!
 
 ## Configuration
 
