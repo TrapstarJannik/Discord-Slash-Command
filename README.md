@@ -53,26 +53,32 @@ To use this bot, follow these steps:
    git clone https://github.com/TrapstarJannik/Discord-Slash-Command.git
     ```
    ```sh
-   cd "your directory"
+   cd "Discord-Slash-Command"
    ```
 
 4. Run the bot:
    ```sh
    python main.py
    ```
+   
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 ## Configuration
 
 - The bot's prefix is set to `.` by default. You can change it in the `main.py` file.
+- add your discord bot token in the `token.txt` by replacing the first line.
 
-> [!IMPORTANT]
+> [!TIP]
 > The time is still in a 24 hour format, I marked it in the code so you can change it if you want
 
 ## Pictures
 
 
-![image](https://github.com/TrapstarJannik/images/blob/main/Screenshot_57.png)
-![image](https://github.com/TrapstarJannik/images/blob/main/Screenshot_58.png)
+![Screenshot_57](https://github.com/TrapstarJannik/Discord-Slash-Command/assets/166982775/a3b906bd-73e7-4ef9-869e-c1bd8985913c)
+![Screenshot_58](https://github.com/TrapstarJannik/Discord-Slash-Command/assets/166982775/5c14cb2a-ff9c-45df-a2ae-8f36dc45ef0b)
+
+
 
 
 
